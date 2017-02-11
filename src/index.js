@@ -1,6 +1,7 @@
-import fbuibtn from './components/FbuiBtn.vue'
+import fbuiBtn from './components/FbuiBtn.vue'
 
 const FishboneUi = {
-  fbuibtn
+  fbuiBtn
 }
+
 module.exports = FishboneUi

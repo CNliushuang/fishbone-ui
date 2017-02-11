@@ -53,8 +53,9 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var FishboneUi = {
-	  fbuibtn: _FbuiBtn2.default
+	  fbuiBtn: _FbuiBtn2.default
 	};
+	
 	module.exports = FishboneUi;
 
 /***/ },

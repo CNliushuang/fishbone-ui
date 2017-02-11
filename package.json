@@ -4,7 +4,8 @@
   "description": "fishbone vue ui ",
   "main": "dist/index.js",
   "scripts": {
-    "build": "webpack --progress --hide-modules --config  ./build/webpack.build.js"
+    "build": "webpack --progress --hide-modules --config  ./build/webpack.build.js",
+    "docs": "webpack-dev-server --inline --hot --quiet --config ./build/webpack.config.js"
   },
   "devDependencies": {
     "animate.css": "^3.5.2",
