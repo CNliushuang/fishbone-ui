@@ -1,3 +1,0 @@
-# fishbone-ui
-
-test
